@@ -1,0 +1,8 @@
+aws_region  = ""
+aws_profile = ""
+
+cluster_name = ""
+cluster_version = "1.21"
+
+iam_role_arn_cluster = ""
+iam_role_arn_nodes = ""
